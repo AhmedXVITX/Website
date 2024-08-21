@@ -1,0 +1,43 @@
+.ahmedphoto{
+    border-radius: 50%;
+    width: 20rem;
+    padding-left: 7rem;
+    
+   
+    
+ 
+}
+.header-container{
+  
+ color:antiquewhite
+}
+.features-container{
+    background-color: rgb(54, 54, 53);
+    opacity: 80%;
+}
+.features-container>*{
+    opacity:100%;
+}
+.back{
+    
+    height: 110vh;
+    position:fixed;
+    z-index:-1;
+}
+.help{
+    color: beige !important;
+}
+body{color: beige !important;
+}
+.blktext{
+    color:rgb(0, 0, 0) !important;
+}
+.ident{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    background-color:rgb(83, 83, 72);
+    
+    font-weight: bold;
+}
