@@ -2,11 +2,11 @@
     border-radius: 50%;
     width: 20rem;
     padding-left: 7rem;
-    
-   
-    
- 
 }
+html{
+    background-color: black;
+ }
+
 .header-container{
   
  color:antiquewhite
@@ -23,13 +23,15 @@
     height: 110vh;
     position:fixed;
     z-index:-1;
+    width:100
 }
 .help{
     color: beige !important;
 }
 body{color: beige !important;
-     background-color: black;
+    background-color: black;
 }
+
 .blktext{
     color:rgb(0, 0, 0) !important;
 }
@@ -42,3 +44,4 @@ body{color: beige !important;
     
     font-weight: bold;
 }
+
